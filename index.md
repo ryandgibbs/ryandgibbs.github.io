@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### B2B Software Examples
 
 [Circular - Explore Module](/sample_page)
 <img src="images/explore.png?raw=true"/>
