@@ -6,6 +6,8 @@
 
 [Circular - Explore Module](/sample_page)
 <img src="images/explore.png?raw=true"/>
+<img src="images/Explore 2.png?raw=true"/>
+<img src="images/Explore 3.png?raw=true"/>
 
 ---
 [Asgard Platform](/pdf/sample_presentation.pdf)
