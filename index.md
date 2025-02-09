@@ -20,8 +20,8 @@
 
 ---
 [Network Health - Business Continuity Analytics](http://example.com/)
-<img src="images/WAN Health1.gif?raw=true"/>
-<img src="images/WAN Health 2.png?raw=true"/>
+<img src="images/WAN health1.gif?raw=true"/>
+<img src="images/WAN health 2.png?raw=true"/>
 
 ### Category Name 2
 
