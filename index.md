@@ -26,9 +26,9 @@
 <img src="images/WAN health1.gif?raw=true"/>
 <img src="images/WAN health 2.png?raw=true"/>
 
-### Category Name 2
+### Other Stuff (coming soon!)
 
-- [Project 1 Title](http://example.com/)
+
 
 
 ---
