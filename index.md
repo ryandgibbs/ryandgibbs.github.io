@@ -26,7 +26,7 @@
 <img src="images/WAN health1.gif?raw=true"/>
 <img src="images/WAN health 2.png?raw=true"/>
 
-### Other Stuff (coming soon!)
+### _Other Stuff (coming soon!)_
 
 
 
@@ -37,5 +37,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
