@@ -16,7 +16,7 @@
 ---
 [Bloomberg EMSX - Trading Analytics](http://example.com/)
 <img src="images/BB_OTAS.png?raw=true"/>
-<img src="images/BB_blotter.png?raw=true"/>
+<img src="images/BB_blotter.jpg?raw=true"/>
 
 ---
 
