@@ -2,8 +2,6 @@
 
 ---
 
-### Some Examples of B2B Software I've Built and Managed:
-
 <p>
   <b>Explore - An AI-Powered BI Tool for Sourcing Recycled Plastic</b><br>
 <br>Launched FOAK AI-powered tool at Circular for streamlining recycled plastics sourcing decisions and procurement processes. Fueled by global technical data sheets metadata, I led the ETL project for collecting this data ingested via a homegrown web scraper, then normalizing and cleaning it to fuel insights delivered through various data visualizations on a React frontend. It helped sustainability and procurement teams quickly find recycled plastics globally that met various criteria such as quantity, technical specs and price parity vs virgin plastics, and then facilitated frictionless connections with suppliers, all on the Circular platform.
